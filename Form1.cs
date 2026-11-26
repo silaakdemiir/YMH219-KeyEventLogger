@@ -16,5 +16,11 @@ namespace YMH219_KeyEventLogger
         {
 
         }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            string zaman = DateTime.Now.ToString("HH:mm:ss");
+            lstKayitlar.Items.Add($"{zaman} - {e.KeyCode}");
+        }
     }
 }
