@@ -11,7 +11,7 @@ Bu gerçek bir keylogger değildir. Sadece kendi penceresi aktifken çalışır,
 
 ## Kurulum ve Çalıştırma
 1. Repoyu bilgisayarına klonla: `git clone https://github.com/silaakdemiir/YMH219-KeyEventLogger.git`
-2. `YMH219-KeyEventLogger.sln` dosyasını Visual Studio ile aç.
+2. `YMH219-KeyEventLogger.slnx` dosyasını Visual Studio ile aç.
 3. F5 tuşuna basarak uygulamayı çalıştır.
 
 ## Temel Özellikler
